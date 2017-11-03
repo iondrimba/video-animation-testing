@@ -1,0 +1,23 @@
+{
+  "name": "video-animation-testing",
+  "version": "1.0.0",
+  "description": "Testing animation via video for performance purposes",
+  "main": "demo.js",
+  "scripts": {
+    "start": "browser-sync start --server"
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.13"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iondrimba/video-animation-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iondrimba/video-animation-testing/issues"
+  },
+  "homepage": "https://github.com/iondrimba/video-animation-testing#readme"
+}
