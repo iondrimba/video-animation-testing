@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.first {
+  background-color: yellow;
+  height: 400px;
+}
+
+.second {
+  background-color: greenyellow;
+  height: 400px;
+}
+
+.third {
+  background-color: orange;
+  height: 400px;
+}
+
+.fourth {
+  background-color: blueviolet;
+  height: 400px;
+}
+
+.mapa {
+  display: flex;
+  justify-content: center;
+}
+
+video {
+  font-size: 0;
+}
